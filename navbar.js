@@ -43,7 +43,7 @@ let mynav=()=>{
     </label>
 </div>
     <div id="navbar">
-       <a href="index.html" class="a"> <img src="https://www.jiomart.com/msassets/jiomart_logo_beta.svg" alt="logo"></a>
+       <a href="index.html" class="a"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6oi8JsntZ9w3fPdIg9c5iWusdh3CV7pWkA&s"" alt="logo"></a>
       <form id="search" class="b">
         <input id="query" type="text" placeholder="Search electronics, groceries, jewellery, kitchen and more...">
       </form >
