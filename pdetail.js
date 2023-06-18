@@ -22,7 +22,7 @@ let lastfun = (el)=>{
     let box2 =document.createElement("div")
     let p2 =document.createElement("p")
     let discount = Number(el.strikeprice-el.price);
-    p2.innerText=`You Save: ₹ ${discount} Inclusive of all taxes`
+    p2.innerText=`You Save: € ${discount} Inclusive of all taxes`
     p2.setAttribute("class","discount")
 
     let p1 =document.createElement("p")
@@ -33,10 +33,10 @@ let lastfun = (el)=>{
    
 
     let sprice =document.createElement("strike")
-    sprice.innerText=`M.R.P: ₹ ${el.strikeprice}.00`;
+    sprice.innerText=`M.R.P: € ${el.strikeprice}.00`;
 
     let price =document.createElement("p")
-    price.innerText=`₹ ${el.price}.00`;
+    price.innerText=`€ ${el.price}.00`;
     
     document.querySelector("#detailpageimg").append(image)
     box.append(p1)
