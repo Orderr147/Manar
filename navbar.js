@@ -43,7 +43,7 @@ let mynav=()=>{
     </label>
 </div>
     <div id="navbar">
-       <a href="index.html" class="a"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCetoYKboB2yFGu5UdTNt1w-AaDc53s8Fbw&usqp=CAU"" alt="logo"></a>
+       <a href="index.html" class="a"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHZmljoVRFN3Rme96oIMVtNQeWJ8jQpXOiQ&usqp=CAU"" alt="logo"></a>
       <form id="search" class="b">
         <input id="query" type="text" placeholder="Search electronics, groceries, jewellery, kitchen and more...">
       </form >
